@@ -1,2 +1,4 @@
 angular-client/node_modules
 express-server/node_modules
+angular-client/package-lock.json
+express-server/package-lock.json
